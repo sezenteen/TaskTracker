@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Finish CLI project",
+        "status": "in-progress"
+    },
+    {
+        "id": 2,
+        "title": "Write documentation",
+        "status": "todo"
+    }
+]
